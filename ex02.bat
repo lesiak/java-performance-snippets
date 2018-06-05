@@ -1,0 +1,1 @@
+java -XX:+TieredCompilation -Xmx256m -classpath out\production\classes io.lesiak.snippets.ex02.AllocationTrap
